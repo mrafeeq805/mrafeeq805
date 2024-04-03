@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Full Stack Web Development, Python, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://www.muhammedrafeeq.vercel.app" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="muhammedrafeeq.vercel.app" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
