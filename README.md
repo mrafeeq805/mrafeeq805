@@ -47,6 +47,8 @@
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/PostgreSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 
 </div>
 
