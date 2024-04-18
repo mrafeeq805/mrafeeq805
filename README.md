@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/muhammed-rafeeq-259804255/" target="_blank"> Muhammed Rafeeq K </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- 🌱 Enjoy to do programming and sharing knowledge 🚀
+- 🌱 Enjoy to do coding and sharing knowledge 🚀
 
 - 💬 Ask me about **Full Stack Web Development, Python, DBMS, MySQL**
 
